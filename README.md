@@ -6,7 +6,7 @@ ESP32 based module for displaying weather data from my weather station posted on
 Also supports OTA updates.
 
 ### Prototype
-![Prototype](Images\DEV_Wetterstation_v2_Anzeige_v1_1_resized.jpg)
+![Prototype](Images/DEV_Wetterstation_v2_Anzeige_v1_1_resized.jpg)
 
 ---
 
